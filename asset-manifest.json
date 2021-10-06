@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Doperator/static/css/main.ee333107.chunk.css",
+    "main.js": "/Doperator/static/js/main.1c9008a4.chunk.js",
+    "main.js.map": "/Doperator/static/js/main.1c9008a4.chunk.js.map",
+    "runtime-main.js": "/Doperator/static/js/runtime-main.1d7a43c5.js",
+    "runtime-main.js.map": "/Doperator/static/js/runtime-main.1d7a43c5.js.map",
+    "static/js/2.712aeedd.chunk.js": "/Doperator/static/js/2.712aeedd.chunk.js",
+    "static/js/2.712aeedd.chunk.js.map": "/Doperator/static/js/2.712aeedd.chunk.js.map",
+    "static/js/3.b3ed6744.chunk.js": "/Doperator/static/js/3.b3ed6744.chunk.js",
+    "static/js/3.b3ed6744.chunk.js.map": "/Doperator/static/js/3.b3ed6744.chunk.js.map",
+    "index.html": "/Doperator/index.html",
+    "static/css/main.ee333107.chunk.css.map": "/Doperator/static/css/main.ee333107.chunk.css.map",
+    "static/js/2.712aeedd.chunk.js.LICENSE.txt": "/Doperator/static/js/2.712aeedd.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Doperator/static/media/Wallpaper_Excel_8.85758403.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d7a43c5.js",
+    "static/js/2.712aeedd.chunk.js",
+    "static/css/main.ee333107.chunk.css",
+    "static/js/main.1c9008a4.chunk.js"
+  ]
+}
